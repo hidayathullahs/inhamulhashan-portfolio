@@ -16,10 +16,10 @@
 | **Professional Title** | Live Site & Resume | **Software Engineer \| AI/ML \| Full-Stack Developer** | Sub-designation: *Python Developer \| Software Developer \| Software Engineer* |
 | **Location** | User Specified | **Dubai, United Arab Emirates** | Based in Dubai, UAE |
 | **Email Address** | Live Site & Resume | **inhamul07@gmail.com** | Configured in Hero copy button, Contact section, FormSubmit endpoint, and Footer |
-| **Phone Number** | Live Site & Resume | **+91 91766 32005** | Formatted for direct `tel:` mobile dialing |
+| **Phone Number** | Updated Resume (`Inhamul_Hasan_Resume (2).pdf`) | **+971 54 380 5201** | UAE mobile number extracted from updated resume for direct `tel:` dialing |
 | **GitHub Handle** | Live Site / GitHub API | **https://github.com/inhamulhashan** | *Note*: Live portfolio had a typo link (`irhamulhashan` which was 404). Extracted and verified active GitHub account `inhamulhashan` hosting `Portfolio` and `moon-plastics`. |
 | **LinkedIn URL** | Live Site & Resume | **https://www.linkedin.com/in/inhamulhashan** | Verified and linked in Hero, Contact, and Footer |
-| **Downloadable Resume** | Live Site (`/Resume.pdf`) | **public/resume.pdf** (191,790 bytes) | Real PDF downloaded directly from live deployment and embedded locally |
+| **Downloadable Resume** | User Supplied (`Inhamul_Hasan_Resume (2).pdf`) | **public/resume.pdf** (199,159 bytes) | Replaced previous resume PDF with user's latest resume |
 | **Hero Portrait** | Live Site Asset (`/assets/hero-avatar-BwBN1PEd.jpg`) | **src/assets/inhamul_avatar_circle.png** | Authentic futuristic 3D avatar portrait centered inside signature `#FF6A00` sun arch |
 
 ---
@@ -140,13 +140,14 @@ Every single occurrence of the previous owner's identity has been eliminated fro
    - Integrated `object-cover object-top` to present real application headers, navigation bars, and telemetry without awkward center clipping.
 4. **Services Section**:
    - 6 dark card modules for AI/ML, Full-Stack Web, Backend & RESTful APIs, Database Architecture, Process Automation, and Frontend Engineering.
-4. **Experience & Education Section**:
-   - Highlighted Femtosoft Technologies internship with verified metrics.
+5. **Experience & Education Section**:
+   - Added **Information Technology Support Assistant** (`Ibillix · Internship`, `May 2026 – Oct 2026 · 6 mos`, `Chennai, Tamil Nadu, India · On-site`).
+   - Highlighted **Software Engineering Intern** (`Femtosoft Technologies`, `Aug 2025 – Oct 2025`) with verified metrics.
    - Highlighted Anna University affiliated B.E. Computer Science degree with core coursework.
    - Chronological milestones timeline (2022 to 2026).
-5. **Contact Section**:
+6. **Contact Section**:
    - Integrated FormSubmit targeting `inhamul07@gmail.com` with client validation, loading indicators, success confetti celebration, and mailto fallback.
-   - Added phone contact link (`+91 91766 32005`) for recruiter convenience.
+   - Added UAE phone contact link (`+971 54 380 5201`) matching the updated resume.
 
 ---
 

@@ -14,7 +14,7 @@ export const personalInfo = {
   aboutParagraph1: "I'm Inhamul Hasan, a Computer Science & Engineering graduate (Class of 2026, Anna University Affiliated College, Tamil Nadu) with hands-on experience in Python, full-stack web development, and machine learning systems.",
   aboutParagraph2: "From engineering end-to-end AI malware detection engines and automated record pipelines during my internship at Femtosoft Technologies, to building full-stack React and Flask REST APIs, I focus on clean architecture, high reliability, and solving real engineering challenges.",
   location: "Dubai, United Arab Emirates",
-  phone: "+91 91766 32005",
+  phone: "+971 54 380 5201",
   email: "inhamul07@gmail.com",
   github: "https://github.com/inhamulhashan",
   linkedin: "https://www.linkedin.com/in/inhamulhashan",
@@ -24,7 +24,7 @@ export const personalInfo = {
     { label: "Core Projects", value: "6+", desc: "AI, Full-Stack & APIs" },
     { label: "Detection Accuracy", value: "90%+", desc: "ML Threat Analysis" },
     { label: "Education", value: "2026", desc: "B.E. Computer Science" },
-    { label: "Internship Exp.", value: "Femtosoft", desc: "Software Engineering" },
+    { label: "Internships", value: "2 Roles", desc: "Ibillix & Femtosoft" },
   ],
 };
 
@@ -289,6 +289,38 @@ export const projects = [
   },
 ];
 
+export const experiences = [
+  {
+    id: "ibillix-it-support",
+    badge: "Latest Experience",
+    role: "Information Technology Support Assistant",
+    company: "Ibillix",
+    employmentType: "Internship",
+    duration: "May 2026 – Oct 2026 · 6 mos",
+    location: "Chennai, Tamil Nadu, India · On-site",
+    highlights: [
+      "Worked on-site at Ibillix in Chennai, Tamil Nadu, India as an Information Technology Support Assistant.",
+      "Completed a 6-month structured internship spanning May 2026 through Oct 2026.",
+    ],
+    tags: ["IT Support", "Internship", "On-site", "6 Months", "Chennai"],
+  },
+  {
+    id: "femtosoft-swe",
+    badge: "Work Experience",
+    role: "Software Engineering Intern",
+    company: "Femtosoft Technologies",
+    employmentType: "Internship",
+    duration: "Aug 2025 – Oct 2025",
+    location: null,
+    highlights: [
+      "Automated digital record management workflows, cutting manual data-retrieval time by an estimated 30% for operations.",
+      "Collaborated with senior engineers on sprint deliverables, consistently meeting deadlines across a 2-month internship cycle.",
+      "Produced and maintained structured technical documentation and project reports, improving cross-team information accuracy.",
+    ],
+    tags: ["Workflow Automation", "Technical Documentation", "Git Collaboration", "Sprint Delivery"],
+  },
+];
+
 export const journeyTimeline = [
   {
     year: "2022",
@@ -323,7 +355,14 @@ export const journeyTimeline = [
     title: "Engineering Graduation & Professional Readiness",
     subtitle: "B.E. CSE Graduate (Class of 2026)",
     role: "Software Engineer",
-    description: "Graduating with B.E. in Computer Science & Engineering. Actively deploying production-grade code, expanding full-stack & AI depth, and seeking roles as a Python Developer or Software Engineer.",
+    description: "Completed B.E. in Computer Science & Engineering. Deploying production-grade code and expanding full-stack & AI depth.",
+  },
+  {
+    year: "2026",
+    title: "Information Technology Support Assistant",
+    subtitle: "Ibillix · Internship (May 2026 – Oct 2026 · 6 mos · Chennai, Tamil Nadu, India · On-site)",
+    role: "Information Technology Support Assistant",
+    description: "Completed a 6-month on-site Information Technology Support Assistant internship at Ibillix in Chennai, Tamil Nadu, India.",
   },
 ];
 
